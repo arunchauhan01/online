@@ -1,0 +1,43 @@
+﻿To navigate to the implementation(s) of an abstract method, position the caret at its usage or its name in the declaration and press Ctrl+Alt+B.
+
+You can comment or uncomment lines and blocks of code using Ctrl+Slash and Ctrl+Shift+Slash.
+Ctrl+Slash comments or uncomments the current line or selected block with single line comments (//...).
+Ctrl+Shift+Slash encloses the selected block in a block comment (/*...*/).
+To uncomment a commented block press Ctrl+Shift+Slash anywhere inside it.
+
+When you need to cast an expression value to the required type the SmartType code completion will help you. For example, type
+String s = (<caret is here> 
+and press Ctrl+Shift+Space to see what happens.
+
+
+Ctrl+D in the editor duplicates the selected block or the current line when no block is selected.
+
+
+Ctrl + Alt + L Format code
+
+
+Build	CTRL + F9 (Win)
+CMD + F9 (Mac)
+Build and run	SHIFT + F10 (Win)
+CTRL + R (Mac)
+Toggle project visibility	ALT + 1 (Win)
+CMD + 1 (Mac)
+Navigate open tabs	ALT + left-arrow; ALT + right-arrow (Win)
+CTRL + left-arrow; CTRL + right-arrow (Mac)
+
+Show docs for selected API	CTRL + Q (Win)
+F1 (Mac)
+Show parameters for selected method	CTRL + P
+Generate method	ALT + Insert (Win)
+CMD + N (Mac)
+Jump to source	F4 (Win)
+CMD + down-arrow (Mac)
+Delete line	CTRL + Y (Win)
+CMD + Backspace (Mac)
+Search by symbol name	CTRL + ALT + SHIFT + N (Win)
+OPTION + CMD + O (Mac)
+
+
+
+
+
